@@ -1,23 +1,23 @@
 
 <div align="center">
   <img src="https://github.com/sachinsinghT/FashionFlare" alt="STYLE UP-PhotoRoom">
-</div>
+</div>Up
 
 
 
-# ⛰ Style-Up E-Commerce Website
+# ⛰ Fashionflare- E-Commerce Website
 
-Welcome to Style-Up, where fashion meets innovation in the digital realm. Our e-commerce platform is meticulously crafted to provide users with an unparalleled online shopping experience. With a focus on trendsetting designs, an intuitive user interface, and personalized recommendations.Users can sign up and log-in into the application using a general email-id or through social networking platform.Once logged in, Users will then be able to add products to their cart and then checkout for final shipping.Users can search products based on categories and are made aware of products .
-
-
+Welcome to Fashionflare, where fashion meets innovation in the digital realm. Our e-commerce platform is meticulously crafted to provide users with an unparalleled online shopping experience. With a focus on trendsetting designs, an intuitive user interface, and personalized recommendations.Users can sign up and log-in into the application using a general email-id or through social networking platform.Once logged in, Users will then be able to add products to their cart and then checkout for final shipping.Users can search products based on categories and are made aware of products .
 
 
 
 
 
-## 📋 Functionalities Provided of Styleup Online Fashion Website-
 
-Functionalities Provided of Styleup Online Fashion Website-
+
+## 📋 Functionalities Provided of Fashionflare Online Fashion Website-
+
+Functionalities Provided of Fashionflare Online Fashion Website-
 
 1.  Provides the searching facilities based on various factors. Such as Garments, Company, Category, Customer.
 
@@ -42,16 +42,7 @@ Functionalities Provided of Styleup Online Fashion Website-
 
 ## Tech Stack
 
-- **Frontend:** HTML5, CSS3
-- **Backend:** Node.js, Express
+- **Frontend:** HTML5, CSS3,JavaScript
 
 
-## 🔗 Getting Started
 
-1. Clone the repository: `https://github.com/sachinsinghT/FashionFlare`
-2. Install dependencies: `npm install`
-3. Start the development server: `npm start`
-
-## 🙏 Support
-This project needs a ⭐️ from you. Don't forget to leave a star ⭐️
-Email - sachinsingh60051@gmail.com
